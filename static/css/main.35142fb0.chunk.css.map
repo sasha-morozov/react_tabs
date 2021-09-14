@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,GACE,eAAgB,CACjB,EAGC,oBAAqB,CACrB,UAAW","file":"main.35142fb0.chunk.css","sourcesContent":["li {\n  list-style: none;\n}\n\na {\n  text-decoration: none;\n  color: blue;\n}\n"]}
